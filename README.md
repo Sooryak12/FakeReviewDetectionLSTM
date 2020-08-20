@@ -1,8 +1,8 @@
-## FakeReviewDetectionLSTM
+# FakeReviewDetectionLSTM
 
 ToDo:
 
-# FakeReview 2 File
+## FakeReview 2 File
 
 - [x] DataSet
 - [x] Data Analysis 
@@ -14,7 +14,7 @@ ToDo:
 - [ ] Improve Accuracy(Basic Model Overfitting)
 
 
-# FakeReview 1 File
+## FakeReview 1 File
 
 - [x] DataSet
 - [x] Data Analysis 
