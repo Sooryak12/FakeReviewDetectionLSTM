@@ -2,7 +2,7 @@
 
 ToDo:
 
-## FakeReview 2 File
+## FakeReview 2 word2idxFile
 
 - [x] DataSet
 - [x] Data Analysis 
@@ -10,20 +10,19 @@ ToDo:
   - [x] Lemmatization and Stopword
    ###Problems
   - [x] Convert Texts to index and Fixing a size for Texts to embed
-  - [x] Word 2Vec
+  - [x] Word 2idc
    - [ ]  Check whether Word2idx is working fine.
-   - [ ]  Add Glove Dictionary[If major words are not present can remove lematization.]
    - [ ]  Embed.
 - [ ] Model(Basic Model ,Need to Change)
 - [ ] Improve Accuracy(Basic Model Overfitting)
 
 
-## FakeReview 1 File
+## FakeReview 2 word2vec File
 
 - [x] DataSet
 - [x] Data Analysis 
 - [x] Text Preprocessing
-  - [x] Lemmatization and Stopword
+  - [x] Stopword
   - [ ] Convert Texts to index and Fixing a size for Texts to embed
   - [ ] Word 2Vec
 - [ ] Model
