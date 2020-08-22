@@ -1,5 +1,7 @@
 # FakeReviewDetectionLSTM
 
+## Currently Working on Model 3 and  FakeReview 2 word2idxFile
+
 ToDo:
 
 ## FakeReview 2 word2idxFile
