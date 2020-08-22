@@ -1,9 +1,9 @@
 # FakeReviewDetectionLSTM
 
-### Need to Work on word2vec File
-### Achieved a Working Model in Model 3 File with low acccuracy.
+#### Need to Work on word2vec File
+#### Achieved a Working Model in Model 3 File with low acccuracy.
 
-ToDo:
+## ToDo:
 
 ## FakeReview 2 word2vec File
 
