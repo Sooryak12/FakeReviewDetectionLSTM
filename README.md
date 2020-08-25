@@ -10,7 +10,7 @@
 #### There may be errors in Preprocessing as all all models acheive a similar accuracy.This process is being done on word2idx file.
 
 
-## FakeReview 2 word2vec File
+## FakeReview word2vec File
 
 - [x] DataSet
 - [x] Data Analysis 
@@ -20,7 +20,7 @@
 - [x] Model
 - [ ] Improve Accuracy
 
-## FakeReview 2 word2idx File
+## FakeReview word2idx File
 
 - [x] DataSet
 - [x] Data Analysis 
