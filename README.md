@@ -5,9 +5,9 @@
 
 ## ToDo:
 
-## Use BERT in a New Model.
-## Improve Accuracy in Glove Model.
-## There may be errors in Preprocessing as all all models acheive a similar accuracy.This process is being done on word2idx file.
+#### Use BERT in a New Model.
+#### Improve Accuracy in Glove Model.
+#### There may be errors in Preprocessing as all all models acheive a similar accuracy.This process is being done on word2idx file.
 
 
 ## FakeReview 2 word2vec File
