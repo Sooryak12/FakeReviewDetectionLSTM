@@ -20,7 +20,7 @@
 - [x] Model
 - [ ] Improve Accuracy
 
-## FakeReview 2 word2idx File and Model 3 File [Currently Discontinued]
+## FakeReview 2 word2idx File
 
 - [x] DataSet
 - [x] Data Analysis 
