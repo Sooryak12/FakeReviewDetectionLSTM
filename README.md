@@ -1,39 +1,19 @@
-# FakeReviewDetectionLSTM
+# FakeReviewDetection
+ Final File :**FinalModel_svm** |
+Testing Accuracy :**80.69%**    |
+ Final Model : **svmmodelup.sav**
 
-#### Currently working on word2vec File and word2index file
+## Trained Models with their Accuracies
+1. Initial Model with No Embeddings [Train: 84% and Test: 59%.]
+2. Model With No Pretrained Embeddings.
+3. GloveWithLSTM
+4.Glove Model 2
+4.BERTModels
+6.SVMmodelp
+7.FinalModel_SVM
 
 
-## ToDo:
-
-#### Use BERT in a New Model.
-#### Improve Accuracy in Glove Model.
-#### There may be errors in Preprocessing as all all models acheive a similar accuracy.This process is being done on word2idx file.
-
-
-## FakeReview word2vec File
-
-- [x] DataSet
-- [x] Data Analysis 
-- [x] Text Preprocessing
-  - [x] Stopword
-  - [x] glove
-- [x] Model
-- [ ] Improve Accuracy
-
-## FakeReview word2idx File
-
-- [x] DataSet
-- [x] Data Analysis 
-- [x] Text Preprocessing
-  - [x] Lemmatization and Stopword
-   ###Problems
-  - [x] Convert Texts to index and Fixing a size for Texts to embed
-  - [x] Word 2idx
-   - [ ]  Check whether Word2idx is working fine.
-   - [X]  Embed.
-- [x] Model
-- [ ] Improve Accuracy(Model OverFitting)
-
+## Insights
 
 
 
