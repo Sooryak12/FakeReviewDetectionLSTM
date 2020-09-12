@@ -7,10 +7,10 @@ Testing Accuracy :**80.69%**    |
 1. Initial Model with No Embeddings [Train: 84% and Test: 59%.]
 2. Model With No Pretrained Embeddings.
 3. GloveWithLSTM
-4.Glove Model 2
-4.BERTModels
-6.SVMmodelp
-7.FinalModel_SVM
+4. Glove Model [25 epochs]
+5. BERTModels
+6. SVMmodelp
+7. FinalModel_SVM
 
 
 ## Insights
